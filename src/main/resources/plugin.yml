@@ -1,0 +1,11 @@
+name: BastiPlugin
+version: '${project.version}'
+main: de.basti.BastiPlugin
+api-version: '1.21'
+author: Silvan1235689
+description: A custom plugin for the Irgendwie Alles Minecraft Podcast
+
+commands:
+  start:
+    description: Start the game
+    usage: /start
