@@ -40,5 +40,5 @@ Open the target folder
 
 The compiled plugin .jar will be located there
 
-# Helpers
+## Helpers
  
