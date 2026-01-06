@@ -82,7 +82,7 @@ public class GameManager {
             
             String timeString = String.format("%02d:%02d.%03d", minutes, seconds, milliseconds);
             
-            Component actionBarMessage = Component.text("⏱ Zeit: " + timeString, NamedTextColor.YELLOW);
+            Component actionBarMessage = Component.text("Time: " + timeString, NamedTextColor.YELLOW);
             player.sendActionBar(actionBarMessage);
         }, 0L, 1L); // Jeden Tick (50ms) für Millisekunden-Genauigkeit
 
@@ -141,3 +141,4 @@ public class GameManager {
         }
     }
 }
+
