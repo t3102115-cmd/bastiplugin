@@ -2,6 +2,7 @@
 
 A Paper plugin inspired by BastiGHG’s Minecraft challenges.
 
+Different Challenges in different versions
 
 Ideal for challenge-based and experimental Minecraft Paper servers.
 
